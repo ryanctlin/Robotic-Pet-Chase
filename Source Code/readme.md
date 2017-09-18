@@ -1,0 +1,1 @@
+Final code for a robotic pet that will lead the user on a chase by executing random movements with varying durations. To “catch” the robot, the user has to press a button on the pet, which would then increase the difficulty level. 
